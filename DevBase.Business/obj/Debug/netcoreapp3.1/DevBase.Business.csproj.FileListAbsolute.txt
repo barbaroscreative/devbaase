@@ -1,0 +1,14 @@
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.Business.deps.json
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.Business.dll
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.Business.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.DataAccess.dll
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.DataAccess.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.Business\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.csprojAssemblyReference.cache
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.AssemblyInfoInputs.cache
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.AssemblyInfo.cs
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.csproj.CopyComplete
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.dll
+C:\Users\barba\source\repos\DevBase\DevBase.Business\obj\Debug\netcoreapp3.1\DevBase.Business.pdb

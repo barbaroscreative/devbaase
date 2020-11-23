@@ -1,0 +1,15 @@
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csprojAssemblyReference.cache
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.AssemblyInfoInputs.cache
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.AssemblyInfo.cs
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.deps.json
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.runtimeconfig.json
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.runtimeconfig.dev.json
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.dll
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csproj.CopyComplete
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.dll
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.pdb
+C:\Users\barba\source\repos\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.genruntimeconfig.cache

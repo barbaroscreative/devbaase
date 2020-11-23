@@ -1,0 +1,50 @@
+﻿@model List<ProductListViewModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model.Count != 0)
+{
+    <a asp-action="AddProduct" asp-controller="Product" class="btn btn-sm btn-info my-2">Yeni Ürün Ekle </a>
+    <table class="table table-sm table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Marka
+                </th>
+                <th>
+                    Ürün Adı
+                </th>
+                <th>
+                    Özellikleri
+                </th>
+                <th>
+                    İşlem
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Brand</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td><a asp-action="EditProduct" asp-controller="Product" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Düzenle</a></td>
+            </tr>
+           
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="text-center lead mt-4">
+        <p>Sistemde Kayırlı Bir Ürün Bulunamadı</p> 
+        <a asp-action="AddProduct" asp-controller="Product" class="btn btn-sm btn-info my-2">Yeni Ürün Ekle </a>
+    </div>
+}
+
+

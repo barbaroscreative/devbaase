@@ -1,0 +1,29 @@
+﻿@model ProductAddViewModel
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form class="w-75 mx-auto p-3" method="post">
+    <div class="form-group">
+        <label asp-for="Brand"></label>
+        <span asp-validation-for="Brand" class="text-danger"></span>
+        <input asp-for="Brand" type="text" class="form-control"  />
+
+        <label asp-for="Name"></label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input asp-for="Name" type="text" class="form-control" />
+
+        <label asp-for="Description">  </label>
+        <span asp-validation-for="Description" class="text-danger"></span>
+        <textarea asp-for="Description" type="text" class="form-control"  />
+
+        <button type="submit" class="btn btn-info btn-sm">Kaydet</button>
+    </div>
+</form>
+
+@*@section JavaScript{
+    <script src="~/jquery/jqueryUnob/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/jquery/jqueryValidate/jquery.validate.min.js"></script>
+}*@ 
